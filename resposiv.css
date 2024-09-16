@@ -1,0 +1,428 @@
+@media (max-width:1280px) {
+    .all-box{
+        width: 93%;
+    }
+}
+@media(max-width:1000px){
+    .mid{
+        width: 100%;
+        display:block;
+    }
+    .left{
+        width:80%;
+        margin: 0 auto;
+        text-align:left;
+    }
+    .right{
+       
+        width: 100%;
+
+    }
+    .imges{
+        width: 200px;
+        height: 200px;
+        margin:0 auto;
+    }
+    .main-contenar{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .right-contenar ul{
+        display: none;
+    }
+    #bars{
+        display: block;
+        padding: 10px 0px;
+    }
+    .con{
+        margin-top:0px;
+        padding:125px 0px;
+    }
+    .left{
+        width:90%;
+        color: #fff;
+        padding:25px 0px;
+    }
+    #mo{
+        font-size: 10px;
+    }
+    .bit,.bitt{
+        width: 120px;
+        font-size: 10px;
+       padding: 10px ;
+    }
+    .about-mid{
+        width: 100%;
+        display: block;
+    }
+    .about{
+       padding-top: 150px;
+    }
+    .about-left{
+        display: none;
+    }
+    .about-right{
+        width: 100%;
+        right: 0;
+    }
+
+    #parsan{
+        font-size:13px;
+    }
+    .sarvic-mid{
+        width: 80%;
+        margin: auto;
+        margin-left:0;
+    }
+    .all-box{
+        width:81%;
+
+        margin: 0 auto;
+        display: block;
+        
+    }
+    #sarc{
+        height:auto;
+        padding-block-end: 20px;
+        background: linear-gradient(to right, rgb(198, 8, 211),
+        rgb(238, 15, 15),rgb(230, 214, 35)
+        );
+        background-size: 400% 400%;
+        animation: backn 4s infinite ease-in-out;
+    }
+    @keyframes backn {
+        0%{
+            background-position: 0 50%;
+        }
+        50%{
+            background-position: 100% 50%;
+        }
+        100%{
+            background-position: 0 50%;
+        }
+
+        
+    }
+    .box{
+        width: 300px;
+        margin: 0 auto;
+        margin:30px 0px;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+        background-color: #342d2da8;
+        box-shadow: 0px 0px 1555px 5px #10309b;
+        text-align: left;
+        padding:18px;
+        color: #fff;
+    }
+    .bot{
+    color: #fff;
+    font-size: 10px;
+    }
+    #pra{
+        color: #fff;
+    }
+    .box h2{
+        color: rgb(255, 255, 255);
+        }
+        .con1{
+            width:100%;
+            margin: auto;
+            text-align: center;
+        }
+        .technical{
+            width: 80%;
+            margin: 0 auto;
+        }
+        #hello{
+            border-bottom: 2px solid #fff;
+        }
+        #skills{
+            height: 200px;
+        }
+        .contact{
+            padding-top:0px;
+        }
+        .box-mid{
+            display: block;
+        
+        }
+        #pop{
+            display: none;
+        }
+      .icola{
+        display: none;
+      }
+      .box-left{
+        text-align: center;
+      }
+      .box-left{
+        width: 100%;
+      }
+      .box-right{
+        width: 100%;
+        justify-content:center;
+      }
+      .input{
+        margin-left: 0;
+        width:77%;
+    margin: auto;
+      }
+      .vasa-mid{
+        width: 95%;
+        display:block;
+    }
+
+    .loding{
+        width: 400px;
+        height: 600px;
+        margin-right: 900px;
+
+        
+      
+      
+         
+    }
+    #mmm{
+        margin-right:900px ;
+    }
+    
+}
+@media(max-width:440px){
+    .mid{
+        width: 100%;
+        display:block;
+    }
+    .left{
+        width:74%;
+        margin: 0 auto;
+        text-align:left;
+    }
+    .right{
+       
+        width: 100%;
+
+    }
+    .imges{
+        width: 200px;
+        height: 200px;
+        margin:0 auto;
+    }
+    .main-contenar{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .right-contenar ul{
+        display: none;
+    }
+    #bars{
+        display: block;
+        padding: 10px 0px;
+    }
+    .con{
+        margin-top:0px;
+        padding:125px 0px;
+    }
+    .left{
+        width:74%;
+        color: #fff;
+        padding:25px 0px;
+    }
+    #mo{
+        font-size: 10px;
+    }
+    .bit,.bitt{
+        width: 120px;
+        font-size: 10px;
+       padding: 10px ;
+    }
+    .about-mid{
+        width: 100%;
+        display: block;
+    }
+    .about{
+       padding-top: 150px;
+    }
+    .about-left{
+        display: none;
+    }
+    .about-right{
+        width: 100%;
+        right: 0;
+    }
+
+    #parsan{
+        font-size:13px;
+    }
+    .sarvic-mid{
+        width: 80%;
+        margin: auto;
+        margin-left:0;
+    }
+    .all-box{
+        width:90%;
+
+        margin: 0 auto;
+        display: block;
+        
+    }
+    #sarc{
+        height:auto;
+        padding-block-end: 20px;
+        background: linear-gradient(to right, rgb(198, 8, 211),
+        rgb(238, 15, 15),rgb(230, 214, 35)
+        );
+        background-size: 400% 400%;
+        animation: backn 4s infinite ease-in-out;
+    }
+    @keyframes backn {
+        0%{
+            background-position: 0 50%;
+        }
+        50%{
+            background-position: 100% 50%;
+        }
+        100%{
+            background-position: 0 50%;
+        }
+
+        
+    }
+    .box{
+        width:360px;
+        margin: 0 auto;
+        margin:30px 0px;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+        background-color: #342d2da8;
+        box-shadow: 0px 0px 1555px 5px #10309b;
+        text-align: left;
+        padding:18px;
+        color: #fff;
+    }
+    .bot{
+    color: #fff;
+    font-size: 10px;
+    }
+    #pra{
+        color: #fff;
+    }
+    .box h2{
+        color: rgb(255, 255, 255);
+        }
+        .con1{
+            width:100%;
+            margin: auto;
+            text-align: center;
+        }
+        .technical{
+            width: 80%;
+            margin: 0 auto;
+        }
+        #hello{
+            border-bottom: 2px solid #fff;
+        }
+        #skills{
+            height: 200px;
+        }
+        .contact{
+            padding-top:0px;
+        }
+        .box-mid{
+            display: block;
+        
+        }
+        #pop{
+            display: none;
+        }
+      .icola{
+        display: none;
+      }
+      .box-left{
+        text-align: center;
+      }
+      .box-left{
+        width: 100%;
+      }
+      .box-right{
+        width: 100%;
+        justify-content:center;
+      }
+      .input{
+        margin-left: 0;
+        width:77%;
+    margin: auto;
+      }
+      .vasa-mid{
+        width: 95%;
+        display:block;
+    }
+
+    .loding{
+        width: 400px;
+        height: 600px;
+        margin-right: 900px;
+    }
+    #mmm{
+        display: none;
+        margin-right:900px ;
+    }
+    .vasa{
+        display: none;
+    }
+}
+@media(max-width:430px){
+    .box{
+        width:360px;
+        padding: 10px 15px;
+    }
+    .left{
+        width: 76%;
+    }
+    #mmm{
+        display: none;
+        margin-right:900px ;
+    }
+    .vasa{
+        display: none;
+    }
+    }
+
+  
+    @media (max-width:391px) {
+        .sarvic-mid{
+            width: 100%;
+        }
+        .all-box{
+            width: 89%;
+        }
+        .box{
+            width:315px;
+        }
+    }
+    @media (max-width:376px) {
+        .box{
+            width: 302px;
+        }
+    }
+    @media(max-width:360px){
+        .box{
+            width:289px;
+        }
+        #mmm{
+            display: none;
+            margin-right:900px ;
+        }
+        .vasa{
+            display: none;
+        }
+        }
+        
+        @media(max-width:320px){
+            .box{
+                width:252px;
+               
+            }
+        }
+
+      
